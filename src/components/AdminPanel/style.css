@@ -1,0 +1,15 @@
+.userlist {
+  text-align: center;
+}
+.userlist_item {
+  list-style-type: none;
+  width: 30vw;
+  background-color: lightgrey;
+  margin: 20px auto;
+  padding: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.22);
+}
+
+.userlist_item :hover {
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.nav_item {
+  list-style-type: none;
+  font-weight: 500;
+}
+
+.nav_item_active {
+  color: forestgreen;
+}
